@@ -1,5 +1,5 @@
 - 👋 Olá! Sou o Filipe, QA e estudade de ADS.
-- 👀
+
 
 <!---
 LipeSanches/LipeSanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Olá! Sou o Filipe, QA e estudante de ADS.
+- 👋 Olá! Sou o Filipe, QA e estudante de Engenharia de Software
 
 
 <!---
